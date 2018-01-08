@@ -1,0 +1,21 @@
+{
+    "name": "socket-server",
+    "version": "0.0.1",
+    "description": "",
+    "author": "Tom Prins <tom.prins2@hva.nl>",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "keywords": [
+        "socket"
+    ],
+    "dependencies": {
+        "axios": "^0.17.1",
+        "express": "^4.16.2",
+        "socket.io": "^2.0.4"
+    },
+    "devDependencies": {},
+    "subdomain": "foobar",
+    "analyze": true,
+    "license": "MIT"
+}

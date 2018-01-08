@@ -25,6 +25,10 @@ io.on('connection', socket => {
     console.log('Color Changed to: ', color)
     io.sockets.emit('change color', color)
   })
+
+
+
+
   
   // disconnect is fired when a client leaves the server
   socket.on('disconnect', () => {

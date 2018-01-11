@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{A3A4A1BF-F866-AB17-4D9D-52C2FEDE8791}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/SocketExample.cs">
     <Files>
-      <File FileName="Assets/Script/SocketExample.cs" Line="31" Column="37" />
+      <File FileName="Assets/Script/SocketExample.cs" Line="39" Column="12" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/fatalerrorx/masterclassVR/Unity-socket-client-masterclass/Assets/Script/SocketExample.cs" relfile="Assets/Script/SocketExample.cs" line="27" column="1" />
-      <Breakpoint file="/Users/fatalerrorx/masterclassVR/Unity-socket-client-masterclass/Assets/Script/SocketExample.cs" relfile="Assets/Script/SocketExample.cs" line="31" column="1" />
+      <Breakpoint file="/Users/fatalerrorx/masterclassVR/Unity-socket-client-masterclass/Assets/Script/SocketExample.cs" relfile="Assets/Script/SocketExample.cs" line="29" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

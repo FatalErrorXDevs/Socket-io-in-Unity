@@ -41,6 +41,7 @@ class App extends Component {
         <button onClick={() => this.send() }>Change Color</button>
         <button id="blue" onClick={() => this.setColor('blue')}>Blue</button>
         <button id="red" onClick={() => this.setColor('red')}>Red</button>
+        <button id="white" onClick={() => this.setColor('white')}>White</button>
       </div>
     )
   }

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VRTK/Examples/011_Camera_HeadSetCollisionFading.unity
+  isLoaded: 1
+  isActive: 1
